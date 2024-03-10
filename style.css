@@ -1,0 +1,23 @@
+iframe{
+    width: 384px;
+    height: 216px;
+    position: absolute;
+}
+
+.a{
+    margin-top: 270px;
+}
+
+.b{
+    margin-top: 270px;
+    margin-left: 1095px;
+}
+
+.c{
+    margin-left: 547.5px;
+}
+
+.d{
+    margin-left: 547.5px;
+    margin-top: 560px;
+}
